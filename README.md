@@ -5,7 +5,7 @@ This repository lists miscellaneous projects and models I worked.
 You can find products that weren't happy to be put on it's own repository. Sometimes with my joke brand "Rbit".
 
 * [HDDBOX](/hddbox) - Hard disk drive storage box. It is 3D printed.
-* [X-tier USB head](/USB head (X-tier)) - a head designed all by me in-house. Only 240W allowed.
+* [X-tier USB head](USB%20head%20(X-tier)) - a head designed all by me in-house. Only 240W allowed.
 
 If these names only show in their own brackets, but not blue text, then it is not yet released, and it should be coming soon.
 
