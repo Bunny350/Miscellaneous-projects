@@ -17,7 +17,7 @@ You can find products that weren't happy to be put on it's own repository. Somet
     * Old eSun spools with two M6 screws for refilling or eSpool spools are incompatible. the inner diameter of such spool is 90mm. Although eSpool+ fits without any accessories.
     * These parts should be printed on PETG or ABS.
  
-*  [HD desiccant case](HD%20desiccant%20case) - A desiccant case that is intended to store the bigger pellets of desiccant (diameters from 3 to 5mm).
+*  [HD desiccant case](https://github.com/Bunny350/HD-desiccant) **(Now moved to its own repository)** - A desiccant case that is intended to store the bigger pellets of desiccant (diameters from 3 to 5mm).
 
 If these names only show in their own brackets, but not blue text, then it is not yet released, and it should be coming soon.
 
