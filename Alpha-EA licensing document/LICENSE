@@ -1,6 +1,6 @@
  Oitswilliam Pang Alpha-EA license
 
- Updated on: March 26, 2026
+ Updated on: March 29, 2026
 
  Copyright ©2026 Oitswilliam Pang. This license is proprietary to this
 repository. This license applies to Bunny350/alpha-ea, the derivatives
@@ -23,7 +23,7 @@ that are in alpha-EA until its official release.
 "follower-EA", means a project is in alpha-stage early access. It is
 usually internal until all the basics are made and ready to followers
 to test it and flag issues prior beta-stage early access or official
-release.
+release. The original alpha-EA repository is Bunny350/alpha-ea.
 
   "Beta-stage early access", known as "beta-EA" or just "EA", means a
 project is in beta-stage early access. It is public, meaning stalkers
@@ -68,6 +68,11 @@ to its own repository.
     leaving OITSWILLIAM PANG Discord chat server (including getting kicked
     or banned) will lose access to such repository per section 1.4.
     Termination.
+    
+    Note that users joined can only grant a license to access alpha-EA
+    projects (do not actually own), unless if such project gets out of
+    alpha-EA. Please refer to section 2. Changing license on how the
+    project gets out of alpha-EA stage.
     
     Alpha-EA will be broken and will be no more if one of applicable
     Oitswilliam Pang's platform has reached over 10,000 followers.
@@ -116,19 +121,28 @@ to its own repository.
     information, and attempting to challenge with the terms of conditions
     of the license or the entire license. Anyone will be warned once
     before termination if they have caught publishing models that aren't
-    tampered but will still result in termination if they refuse receiving
-    warnings in any way (for example, blocking Oitswilliam from sending)
-    or repeated / chaining offense.
+    tampered, but will still result in termination if they refuse
+    receiving warnings in any way (for example, blocking Oitswilliam from
+    sending to) or repeated / chaining offense.
     Oitswilliam Pang will have the final decision on whether to warn the
     member or terminate their access, with no explicitly said ban
     duration.
+    
+    If you have lost access to alpha-EA repository due to termination,
+    you are ordered to do nothing else, and then remove alpha-EA
+    repository from your devices permanently. This does not apply to
+    parts that became physical in real life, in which can be kept.
 
   2. Changing license
   Oitswilliam Pang will be required to change the project's licensing
 away from alpha-EA license when the project decides to go outside
-alpha-EA. Anyone else are not allowed to change the license of projects
-in alpha-EA or they will lose access for tampering the documents per
-section 1.4. Termination.
+alpha-EA. This also means that, if the project is in beta-EA, or released
+officially, users are allowed to own versions of the project that are in
+alpha-EA stage.
+
+Anyone else are not allowed to change the license or licensing terms of
+projects in alpha-EA or they will lose access for tampering the documents
+per section 1.4. Termination.
 
   3. Commercial and Patents
   Since these projects are put in alpha-EA, and is not allowed to have
@@ -191,3 +205,12 @@ also known as patent trolling, will result in losing access per section
     under section 1.2. Sharing. Not just this, we are generally not ready
     for this yet, so, logically, tell people to have their own printer if
     they want the parts (when they are released).
+
+  7. Do users really own alpha-EA projects?
+    NO, unless if the project is out of such stage.
+    According to alpha-EA licensing, users do not own Oitswilliam's
+    projects that are in alpha-EA unless if they are out of such stage.
+    Users whose intent is to violate alpha-EA licensing shall require
+    removal of the repository in their device forever.
+    Follower-exclusive projects may not see itself be ownable by the
+    people within the forseeable future.
