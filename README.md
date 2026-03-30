@@ -26,3 +26,6 @@ If you want to find non-joke projects that is being improved for years to come o
 ## History
 
 Oitswilliam's Rbit was early enough. It's published in August 2020. Except that I ditched it later in 2023, and it's currently trademarked by some company.
+
+## Licensing
+The documents in Miscellaneous-projects repository are licensed under GPL 3.0, except for Bonsai Lab BS01 frame (CC BY-NC-SA) and Alpha-EA licensing document.
