@@ -10,14 +10,18 @@ Projects currently in alpha-EA may not be accessed to outsiders, modifications m
 | Stage      | Alpha-EA   | Beta-EA (or just EA) | General availability |
 | ---------- | ---------- | ---------- | -------------------- |
 | Follower access | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Viewable by non-follower as images or videos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Viewable by non-follower as images or videos (i.e. through social platform) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Non-follower model access | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | Constant and un-noticeable revision changes | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | Critical error-addressing revision changes | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Remix culture | Private only | Condemned | Allowed |
-| Commercial use | :x: | Condemned | Condemned |
+| Remix culture | Condemned. If really want to make, private only | Condemned | Allowed |
+| Commercial use | :x: | Condemned | Condemned, unless if it is PCB |
 | Strict licensing policy | :heavy_check_mark: | :x: | :x: |
 | Own the model | :x: | :heavy_check_mark: | :heavy_check_mark: | 
 | Breaks previously alpha-EA free from strict policy | It's own | :heavy_check_mark: | :heavy_check_mark: |
+
+* In this table, *condemned* just means not recommended, which means it is generally recommended to not do this, but Oitswilliam Pang can't stop you from doing that.
+* :x: - Not allowed.
+* :heavy_check_mark: - Allowed.
 
 [^applicable-platforms]: The following platforms which are applicable for the follower request: Facebook account (williampang.3363), Facebook page (officialbunny350) and Instagram (william86745).
