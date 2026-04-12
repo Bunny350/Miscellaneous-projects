@@ -3,6 +3,16 @@ This folder contains alpha-EA licensing document for non-followers to see.
 
 Feeling impatient waiting to use the new Oitswilliam projects? To access the alpha-EA repository, [follow Oitswilliam Pang in one of applicable platforms](https://www.oitswilliam.com/media), join Oitswilliam Pang Discord chat server and message Oitswilliam Pang for the follower form.[^applicable-platforms]
 
+## Materials in alpha-EA stage
+The following materials which is in alpha-stage early access for testers to use and even torture.
+
+* EXS add-on for Voron 0
+    * A part of [OITSWILLIAMV0](https://github.com/Bunny350/OITSWILLIAMV0) mod. It uses blower-style fan as a gimmick, activated carbon pellets and [redacted] HEPA filter[redacted] as filtration.
+    * It has [redacted] filament sensor, developed by Oitswilliam himself, based of common and [redacted].
+    
+## Follower-exclusive materials
+The obvious thing is V2.3347 (and soon V0.2378) additional materials (+ mods) tidied-up and configuration files. Among other things that followers enjoy to have.
+
 ## In a nutshell
 
 Projects currently in alpha-EA may not be accessed to outsiders, modifications must be inaccessible from non-followers of Oitswilliam, and no commercial use (including selling or marketing), as it could lead to non-follower access. Users do not own the model digitally unless if the project the model is in is out of alpha-EA.
