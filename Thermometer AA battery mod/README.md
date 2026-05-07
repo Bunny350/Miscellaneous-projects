@@ -7,10 +7,11 @@ There are two variants, normal and pro version[^follower-exclusive].
 | Spec | Normal | Pro[^follower-exclusive] |
 | ---- | ------ | ------------------------ |
 | Appearance | <img src="https://raw.githubusercontent.com/Bunny350/Miscellaneous-projects/main/Thermometer%20AA%20battery%20mod/Media/thermometer_aa_battery_mod.png" width="400px"/> | <img src="https://raw.githubusercontent.com/Bunny350/Miscellaneous-projects/main/Thermometer%20AA%20battery%20mod/Media/thermometer_aa_battery_mod_pro.png" width="400px" /> |
+| Model | [thermometer aa battery mod.stl](./thermometer%20aa%20battery%20mod.stl) | [^follower-exclusive] |
 | Date made | 2022 | 2026 |
 | Unit installation | Inside | Outside |
-| Security | Adhesive | Adhesive or fasteners |
 | Battery installation | Back | Front | 
+| Security | Adhesive | Adhesive or fasteners |
 
 ## Print preparation
 * **The smooth build plate is recommended just to make the usability easier. Unfortunately, not all providers, vendors or manufacturers sell smooth build plates for the printers, and may only be textured. If you only have textured build plates for any printers but not smooth plates for any of them, you are stuck here unless you figure out on how to work around weak adhesive bonding on the standard version or air leak on the pro version[^follower-exclusive].**
@@ -49,10 +50,10 @@ Both variants can follow the same procedure, with the exception of on how they a
 
 | Normal | Pro |
 | ------ | --- |
-| <img src="https://raw.githubusercontent.com/Bunny350/Miscellaneous-projects/main/Thermometer%20AA%20battery%20mod/Media/Assembly/IMG_4210.jpeg" /> | <img src="https://raw.githubusercontent.com/Bunny350/Miscellaneous-projects/main/Thermometer%20AA%20battery%20mod/Media/Assembly/IMG_4224.jpeg" /> | 
+| <img src="https://raw.githubusercontent.com/Bunny350/Miscellaneous-projects/main/Thermometer%20AA%20battery%20mod/Media/Assembly/IMG_4210.jpeg" /> | <img src="https://raw.githubusercontent.com/Bunny350/Miscellaneous-projects/main/Thermometer%20AA%20battery%20mod/Media/Assembly/IMG_4220.jpeg" /> | 
 
 * Only for the pro version, wrap the thermometer unit cutout with the adhesive tape.
-    * <img src="https://raw.githubusercontent.com/Bunny350/Miscellaneous-projects/main/Thermometer%20AA%20battery%20mod/Media/Assembly/IMG_4220.jpeg" height="400px" />
+    * <img src="https://raw.githubusercontent.com/Bunny350/Miscellaneous-projects/main/Thermometer%20AA%20battery%20mod/Media/Assembly/IMG_4224.jpeg" height="400px" />
     
 * Attach the thermometer to the cutout of the converter.
     * <img src="https://raw.githubusercontent.com/Bunny350/Miscellaneous-projects/main/Thermometer%20AA%20battery%20mod/Media/Assembly/IMG_4212.jpeg" height="400px" />
@@ -73,7 +74,7 @@ Both variants can follow the same procedure, with the exception of on how they a
 
 | Normal | Pro |
 | ------ | --- |
-| <img src="https://raw.githubusercontent.com/Bunny350/Miscellaneous-projects/main/Thermometer%20AA%20battery%20mod/Media/Assembly/IMG_4232.jpeg" /> | [^follower-exclusive] | 
+| <img src="https://raw.githubusercontent.com/Bunny350/Miscellaneous-projects/main/Thermometer%20AA%20battery%20mod/Media/Assembly/IMG_4232.jpeg" height="600" /> | [^follower-exclusive] | 
 
 * Install the AA battery.
 
