@@ -35,5 +35,7 @@ Projects currently in alpha-EA may not be accessed to outsiders, modifications m
 * :x: - Not allowed. Oitswilliam Pang can stop you from doing these. For *strict licensing policy* and *constant and un-noticeable revision changes*, it means not included. 
 * :heavy_check_mark: - Allowed.
 
+## Joining requirements
+All people whose wanting to access unfinished alpha-EA projects must be followers of Oitswilliam Pang[^applicable-platforms] and must understand who Oitswilliam Pang is. If you are ready to join, you can [fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSe9aEM7jyf0lV2PUAgOg0_tz9F7GI91byWFxUzvXsLlXambJA/viewform?usp=header).
 
-[^applicable-platforms]: The following platforms which are applicable for the follower request: Facebook account (williampang.3363), Facebook page (officialbunny350), Instagram (@william86745) and YouTube (@oitswilliam).
+[^applicable-platforms]: The following platforms which are applicable for the follower request: Facebook account (williampang.3363), Facebook page (officialbunny350), Instagram (@oitswilliam) and YouTube (@oitswilliam).

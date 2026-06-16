@@ -22,7 +22,7 @@ This model is a workaround to add space for me to store things that I rarely use
 
 ## <s>NAS shelf</s>
 
-The third wall-mounted shelf I have built. The model I made is now exclusive to my followers on [Facebook](https://www.facebook.com/williampang.3363), [Instagram](https://www.instagram.com/william86745/) (and other applicable platforms).
+The third wall-mounted shelf I have built. The model I made is now exclusive to my followers on [Facebook](https://www.facebook.com/williampang.3363), [Instagram](https://www.instagram.com/oitswilliam/) (and other applicable platforms).
 
 ## Important note
 Please see it's CAD files on how it will be built. Some of them are very primitive, so you must have symmetry skills.
