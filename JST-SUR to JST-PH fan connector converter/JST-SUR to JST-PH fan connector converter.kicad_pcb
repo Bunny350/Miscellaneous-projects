@@ -663,7 +663,7 @@
 			(uuid "ed713b37-1174-43bb-a5d7-b27ebf0c5c3e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1114,7 +1114,7 @@
 			(uuid "d9fce5c7-d878-40a6-b50c-e8cb3db003f8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SUR_BM04B-SURS-TF_1x04-1MP_P0.80mm_Vertical.step"
+		(model "${KIPRJMOD}/EasyEDA.3dshapes/CONN-SMD_M0800RS-04-GN.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1122,7 +1122,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)

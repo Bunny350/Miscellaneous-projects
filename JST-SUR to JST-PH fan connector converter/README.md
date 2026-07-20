@@ -4,6 +4,8 @@
 
 The simple dongle for inserting modern laptop fans (most specifically ThinkBook) into our wanted devices i.e. [**different** Voron 0](https://github.com/Bunny350/OITSWILLIAMV0/tree/For-V0.2/CAD/Experimental).
 
+This dongle has an M2 screw hole for rigid attachments. It is giant when scale to fit on the screen.
+
 ## This PCB is intended to be DIY'd, at least five sets for universal use.
 Each PCB requires one JST-PH straight / right-angle receptacle and a JST-SUR right-angle receptacle. JST-SUR is usually misinterpretated as "SH0.8".
 
@@ -22,6 +24,8 @@ Attach the JST-SUR port first, since this is an SMT connector, and then JST-PH, 
 
 | Type           | Spec  |
 | -------------- | ----- |
+| Recommended board thickness | 1.6mm |
+| Recommended PCB conductor | HASL lead-free |
 | Maximum current | 0.5A |
 | Width          | 10.95mm |
 | Height         | 14mm  |
