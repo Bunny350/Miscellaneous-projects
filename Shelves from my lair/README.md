@@ -14,7 +14,7 @@ This lists all the shelves that have been open-sourced for everyone to enjoy (ex
 
 ## Rackmount network + filament shelf
 
-Dubbed "the most powerful shelf ever made," This shelf can house an entire rackmount UPS of around 25kg while storing up to 6 - 7 spools of 1kg filament and 4 PolyDryer boxes, or 14 spools of 1kg filament. This shelf requires cleats to support the weight of the UPS and the rest of loads.
+Dubbed "the most powerful shelf ever made," This shelf can house an entire rackmount UPS of around 25kg while storing up to 6 - 7 spools of 1kg filament and 4 PolyDryer boxes, or 14 spools of 1kg filament. This shelf requires structs to support the weight of the UPS and the rest of loads.
 
 ## Three-storey grounded rack
 
@@ -22,10 +22,10 @@ This model is a workaround to add space for me to store things that I rarely use
 
 ## <s>NAS shelf</s>
 
-The third wall-mounted shelf I have built. The model I made is now exclusive to my followers on [Facebook](https://www.facebook.com/williampang.3363), [Instagram](https://www.instagram.com/oitswilliam/) (and other applicable platforms).
+The third wall-mounted shelf I have built. The model I made is now exclusive to my followers on [Facebook](https://www.facebook.com/williampang.3363), [Instagram](https://www.instagram.com/oitswilliam/) and other applicable platforms.
 
 ## Important note
-Please see it's CAD files on how it will be built. Some of them are very primitive, so you must have symmetry skills.
+Please see its CAD files on how it will be built. Some of them are very primitive, so you must have symmetry skills.
 
 Avoid drilling the plastic screw plugs just because of it requiring a high force, or the shelf will sag (I tried).
 
