@@ -25,8 +25,8 @@ Projects currently in alpha-EA may not be accessed to outsiders, modifications m
 | Constant and un-noticeable revision changes | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | Critical error-addressing revision changes | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Remix culture | If really want to make, private only | Condemned | :heavy_check_mark: |
-| Full name exposure | Testers only | Official | Official |
-| Commercial use | :x: | Condemned | Condemned, unless if it is PCB |
+| Full name exposure | Usually testers only | Official | Official |
+| Non-internal commercial use | :x: | Condemned | Condemned, unless if it is PCB |
 | Strict licensing policy | :heavy_check_mark: | :x: | :x: |
 | Own the model | :x: | :heavy_check_mark: | :heavy_check_mark: | 
 | Breaks previously alpha-EA free from strict policy | It's own | :heavy_check_mark: | :heavy_check_mark: |
