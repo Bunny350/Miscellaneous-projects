@@ -6,9 +6,8 @@ Feeling impatient waiting to use the new Oitswilliam projects? To access the alp
 ## Materials in alpha-EA stage
 The following materials which is in alpha-stage early access for testers to use and even torture.
 
-* EXS add-on for Voron 0
-    * A part of [OITSWILLIAMV0](https://github.com/Bunny350/OITSWILLIAMV0) mod. It uses blower-style fan as a gimmick, activated carbon pellets and [redacted] HEPA filter[redacted] as filtration.
-    * It has [redacted] filament sensor, developed by Oitswilliam himself, based of common and [redacted].
+* Exhaust Lite Integrated Controller
+  * A Klipper-ran controller board that controls the exhaust unit and has the optional USB hub, with just one cable.
     
 ## Follower-exclusive materials
 The obvious thing is V2.3347 (and soon V0.2378) additional materials (+ mods) tidied-up and configuration files. Among other things that followers enjoy to have.
