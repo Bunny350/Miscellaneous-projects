@@ -1,0 +1,4 @@
+execute if entity @e[name=RabbitMatrixVM,scores={RabbitMatrixMode=1..2}] run setblock 190 54 -195 minecraft:redstone_block
+execute if entity @e[name=RabbitMatrixVM,scores={RabbitMatrixMode=1..2}] run say Multifunction Rabbit is shutting down.
+execute if entity @e[name=RabbitMatrixVM,scores={RabbitMatrixMode=1..2}] run scoreboard players set @e[name=RabbitMatrixVM] RabbitMatrixMode 0
+execute if entity @e[name=RabbitMatrixVM,scores={RabbitMatrixMode=0}] run tellraw @a [{"text":"It has been "},{"text":"Shutted down","italic":true},{"text":" already, You may need to turn Multifunction Rabbit Matrix back on."}]
